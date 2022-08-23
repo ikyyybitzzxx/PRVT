@@ -1,35 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['13177997217','6287892711054','6282120807400'] 
+global.owner = ['6285922480867','6289510033986','6285922480867'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'DeltaUhuy'
-global.numberowner = '13177997217'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'This.Ky'
+global.numberowner = '6285922480867'
+global.instagram = 'https://instagram.com/this.seira'
+global.github = 'https://github.com/-'
+global.dana = '085922480867'
+global.pulsa = '085922480867'
+global.gopay = '085922480867'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Delta-Md'
-global.gc = 'bit.ly/AnyaBot-Group'
-global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Bot-Ky'
+global.gc = 'https://chat.whatsapp.com/F7imKOvW83K3uxKKYWN6op'
+global.web = 'https://github.com/-' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/fcc782d852b8a35146811.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/fcc782d852b8a35146811.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Delta ʙᴏᴛ'
+global.wm = 'Kyy'
 global.watermark = wm
-global.wm2 = '                     「 Delta-𝙼𝙳 あ⁩ 」'
-global.wm3 = 'Delta-𝙼𝙳'
+global.wm2 = '                     「 Kixz-𝙼𝙳 あ⁩ 」'
+global.wm3 = 'Sitxz-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/fcc782d852b8a35146811.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
